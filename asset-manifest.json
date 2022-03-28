@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.4c1a119f.css",
+    "main.js": "/portfolio/static/js/main.8bb7696e.js",
+    "static/media/portfoliopic.png": "/portfolio/static/media/portfoliopic.ad4dd5a8c97823217712.png",
+    "static/media/portfolio5.png": "/portfolio/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
+    "static/media/portfolio2.jpg": "/portfolio/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
+    "static/media/portfolio6.jpg": "/portfolio/static/media/portfolio6.72d1107e313049cf15a7.jpg",
+    "static/media/VlademirJamandron.pdf": "/portfolio/static/media/VlademirJamandron.12f68330f9b74a2a3146.pdf",
+    "static/media/portfolio1.jpg": "/portfolio/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
+    "static/media/portfolio3.jpg": "/portfolio/static/media/portfolio3.cbab42559fe73e73906f.jpg",
+    "static/media/65581463_333371957595443__n.jpg": "/portfolio/static/media/65581463_333371957595443_644667706297024512_n.d9f1e43ad7338d0a07b3.jpg",
+    "static/media/portfolio4.jpg": "/portfolio/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
+    "index.html": "/portfolio/index.html",
+    "main.4c1a119f.css.map": "/portfolio/static/css/main.4c1a119f.css.map",
+    "main.8bb7696e.js.map": "/portfolio/static/js/main.8bb7696e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c1a119f.css",
+    "static/js/main.8bb7696e.js"
+  ]
+}
